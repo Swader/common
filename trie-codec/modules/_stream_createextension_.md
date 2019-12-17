@@ -14,7 +14,7 @@
 
 ▸ **createExtension**(`key`: Uint8Array): *Uint8Array*
 
-*Defined in [stream/createExtension.ts:7](https://github.com/polkadot-js/common/blob/337c67ff/packages/trie-codec/src/stream/createExtension.ts#L7)*
+*Defined in [stream/createExtension.ts:7](https://github.com/polkadot-js/common/blob/4e4ff5de/packages/trie-codec/src/stream/createExtension.ts#L7)*
 
 **Parameters:**
 

@@ -14,7 +14,7 @@
 
 ▸ **encodeArray**(`encoder`: [EncodeFunc](_encoder_types_.md#encodefunc), `input`: null | Uint8Array‹›[]): *Uint8Array*
 
-*Defined in [encoder/array.ts:11](https://github.com/polkadot-js/common/blob/337c67ff/packages/util-rlp/src/encoder/array.ts#L11)*
+*Defined in [encoder/array.ts:11](https://github.com/polkadot-js/common/blob/4e4ff5de/packages/util-rlp/src/encoder/array.ts#L11)*
 
 **Parameters:**
 
