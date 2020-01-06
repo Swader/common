@@ -22,17 +22,17 @@
 
 • **debug**: *function*
 
-*Defined in [types.ts:23](https://github.com/polkadot-js/common/blob/4e4ff5de/packages/util/src/types.ts#L23)*
+*Defined in [types.ts:23](https://github.com/polkadot-js/common/blob/241febb7/packages/util/src/types.ts#L23)*
 
 #### Type declaration:
 
-▸ (...`values`: [Logger$Data](../modules/_types_.md#logger$data)): *void*
+▸ (...`values`: [Logger$Data](../modules/_types_.md#loggerdata)): *void*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`...values` | [Logger$Data](../modules/_types_.md#logger$data) |
+`...values` | [Logger$Data](../modules/_types_.md#loggerdata) |
 
 ___
 
@@ -40,17 +40,17 @@ ___
 
 • **error**: *function*
 
-*Defined in [types.ts:24](https://github.com/polkadot-js/common/blob/4e4ff5de/packages/util/src/types.ts#L24)*
+*Defined in [types.ts:24](https://github.com/polkadot-js/common/blob/241febb7/packages/util/src/types.ts#L24)*
 
 #### Type declaration:
 
-▸ (...`values`: [Logger$Data](../modules/_types_.md#logger$data)): *void*
+▸ (...`values`: [Logger$Data](../modules/_types_.md#loggerdata)): *void*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`...values` | [Logger$Data](../modules/_types_.md#logger$data) |
+`...values` | [Logger$Data](../modules/_types_.md#loggerdata) |
 
 ___
 
@@ -58,17 +58,17 @@ ___
 
 • **log**: *function*
 
-*Defined in [types.ts:25](https://github.com/polkadot-js/common/blob/4e4ff5de/packages/util/src/types.ts#L25)*
+*Defined in [types.ts:25](https://github.com/polkadot-js/common/blob/241febb7/packages/util/src/types.ts#L25)*
 
 #### Type declaration:
 
-▸ (...`values`: [Logger$Data](../modules/_types_.md#logger$data)): *void*
+▸ (...`values`: [Logger$Data](../modules/_types_.md#loggerdata)): *void*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`...values` | [Logger$Data](../modules/_types_.md#logger$data) |
+`...values` | [Logger$Data](../modules/_types_.md#loggerdata) |
 
 ___
 
@@ -76,17 +76,17 @@ ___
 
 • **noop**: *function*
 
-*Defined in [types.ts:26](https://github.com/polkadot-js/common/blob/4e4ff5de/packages/util/src/types.ts#L26)*
+*Defined in [types.ts:26](https://github.com/polkadot-js/common/blob/241febb7/packages/util/src/types.ts#L26)*
 
 #### Type declaration:
 
-▸ (...`values`: [Logger$Data](../modules/_types_.md#logger$data)): *void*
+▸ (...`values`: [Logger$Data](../modules/_types_.md#loggerdata)): *void*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`...values` | [Logger$Data](../modules/_types_.md#logger$data) |
+`...values` | [Logger$Data](../modules/_types_.md#loggerdata) |
 
 ___
 
@@ -94,14 +94,14 @@ ___
 
 • **warn**: *function*
 
-*Defined in [types.ts:27](https://github.com/polkadot-js/common/blob/4e4ff5de/packages/util/src/types.ts#L27)*
+*Defined in [types.ts:27](https://github.com/polkadot-js/common/blob/241febb7/packages/util/src/types.ts#L27)*
 
 #### Type declaration:
 
-▸ (...`values`: [Logger$Data](../modules/_types_.md#logger$data)): *void*
+▸ (...`values`: [Logger$Data](../modules/_types_.md#loggerdata)): *void*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`...values` | [Logger$Data](../modules/_types_.md#logger$data) |
+`...values` | [Logger$Data](../modules/_types_.md#loggerdata) |

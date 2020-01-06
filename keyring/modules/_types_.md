@@ -17,7 +17,7 @@
 
 ### Type aliases
 
-* [KeyringPair$JsonVersion](_types_.md#keyringpair$jsonversion)
+* [KeyringPair$JsonVersion](_types_.md#keyringpairjsonversion)
 
 ## Type aliases
 
@@ -25,4 +25,4 @@
 
 Ƭ **KeyringPair$JsonVersion**: *"0" | "1" | "2"*
 
-*Defined in [types.ts:21](https://github.com/polkadot-js/common/blob/4e4ff5de/packages/keyring/src/types.ts#L21)*
+*Defined in [types.ts:21](https://github.com/polkadot-js/common/blob/241febb7/packages/keyring/src/types.ts#L21)*

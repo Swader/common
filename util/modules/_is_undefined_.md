@@ -14,7 +14,7 @@
 
 ▸ **isUndefined**(`value?`: any): *value is undefined*
 
-*Defined in [is/undefined.ts:20](https://github.com/polkadot-js/common/blob/4e4ff5de/packages/util/src/is/undefined.ts#L20)*
+*Defined in [is/undefined.ts:20](https://github.com/polkadot-js/common/blob/241febb7/packages/util/src/is/undefined.ts#L20)*
 
 **`name`** isUndefined
 

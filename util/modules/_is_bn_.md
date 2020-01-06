@@ -14,7 +14,7 @@
 
 ▸ **isBn**(`value`: any): *value is BN*
 
-*Defined in [is/bn.ts:23](https://github.com/polkadot-js/common/blob/4e4ff5de/packages/util/src/is/bn.ts#L23)*
+*Defined in [is/bn.ts:23](https://github.com/polkadot-js/common/blob/241febb7/packages/util/src/is/bn.ts#L23)*
 
 **`name`** isBn
 
