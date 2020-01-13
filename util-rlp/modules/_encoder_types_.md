@@ -14,7 +14,7 @@
 
 Ƭ **EncodeFunc**: *function*
 
-*Defined in [encoder/types.ts:6](https://github.com/polkadot-js/common/blob/c776f0d8/packages/util-rlp/src/encoder/types.ts#L6)*
+*Defined in [encoder/types.ts:6](https://github.com/polkadot-js/common/blob/cfdf629b/packages/util-rlp/src/encoder/types.ts#L6)*
 
 #### Type declaration:
 

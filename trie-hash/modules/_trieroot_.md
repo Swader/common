@@ -14,7 +14,7 @@
 
 ▸ **trieRoot**(`input`: [TriePair](../interfaces/_types_.triepair.md)[], `codec`: Codec): *Uint8Array*
 
-*Defined in [trieRoot.ts:29](https://github.com/polkadot-js/common/blob/c776f0d8/packages/trie-hash/src/trieRoot.ts#L29)*
+*Defined in [trieRoot.ts:29](https://github.com/polkadot-js/common/blob/cfdf629b/packages/trie-hash/src/trieRoot.ts#L29)*
 
 **`name`** trieRoot
 
