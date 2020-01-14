@@ -14,7 +14,7 @@
 
 ▸ **isHex**(`value`: any, `bitLength`: number, `ignoreLength`: boolean): *value is string | String*
 
-*Defined in [is/hex.ts:25](https://github.com/polkadot-js/common/blob/cfdf629b/packages/util/src/is/hex.ts#L25)*
+*Defined in [is/hex.ts:25](https://github.com/polkadot-js/common/blob/b7635d7e/packages/util/src/is/hex.ts#L25)*
 
 **`name`** isHex
 
